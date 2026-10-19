@@ -1,0 +1,2 @@
+# premium-gamelan-001-gamelan-bronze-tuning-frequenc
+Stop losing track of your bronze gamelan's unique frequencies between rehearsals. The Gamelan Bronze Tuning Frequency Hub turns scattered notes into a single, searchable database.  This Notion template solves the chaos of managing multiple tunings for your bronze gamelan set by providing a structured system to log, compare, and track frequency chan
